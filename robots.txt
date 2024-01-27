@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.ampache.dev/superjp/sitemap.xml
+Sitemap: https://www.ampache.dev/gilajp/sitemap.xml
+Sitemap: https://www.ampache.dev/gojekpot/sitemap.xml
+Sitemap: https://www.ampache.dev/winstrike69/sitemap.xml
+Sitemap: https://www.ampache.dev/slotgacor/sitemap.xml
+Sitemap: https://www.ampache.dev/slotzeus/sitemap.xml
+Sitemap: https://www.ampache.dev/kaptenjackpot/sitemap.xml
+Sitemap: https://www.ampache.dev/boosterjp/sitemap.xml
+Sitemap: https://www.ampache.dev/kerajaanslot/sitemap.xml
+Sitemap: https://www.ampache.dev/pakong86/sitemap.xml
+Sitemap: https://www.ampache.dev/viral88/sitemap.xml
+Sitemap: https://www.ampache.dev/clan4d/sitemap.xml
+Sitemap: https://www.ampache.dev/dinamit4d/sitemap.xml
+Sitemap: https://www.ampache.dev/elang212/sitemap.xml
+Sitemap: https://www.ampache.dev/gori77/sitemap.xml
+Sitemap: https://www.ampache.dev/viral4d/sitemap.xml
+Sitemap: https://www.ampache.dev/playground88/sitemap.xml
